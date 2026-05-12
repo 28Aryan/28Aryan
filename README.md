@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20B2AA,100:8A2BE2&height=200&section=header&text=Aryan%20Chauhan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<!-- =================== TROPHIES =================== -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=28aryan&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
+
 
 <!-- =================== TYPING INTRO =================== -->
 <h1 align="center">
@@ -72,14 +69,15 @@
 
 ---
 
-## 📊 GitHub Stats (Teal–Purple Theme)
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=28aryan&show_icons=true&bg_color=0D1117&title_color=20B2AA&text_color=C9D1D9&icon_color=8A2BE2&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=28aryan&show_icons=true&count_private=true&bg_color=0D1117&title_color=20B2AA&text_color=C9D1D9&icon_color=8A2BE2&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=28aryan&layout=compact&langs_count=8&bg_color=0D1117&title_color=20B2AA&text_color=C9D1D9&hide_border=true" />
+</div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=28aryan&background=0D1117&ring=20B2AA&fire=8A2BE2&currStreakLabel=20B2AA&sideLabels=8A2BE2&dates=C9D1D9&sideNums=C9D1D9&hide_border=true" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=28aryan&layout=compact&bg_color=0D1117&title_color=20B2AA&text_color=C9D1D9&hide_border=true" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=28aryan&background=0D1117&ring=20B2AA&fire=8A2BE2&currStreakLabel=20B2AA&currStreakNum=20B2AA&sideLabels=8A2BE2&dates=C9D1D9&sideNums=C9D1D9&hide_border=true&stroke=20B2AA&border_radius=8" />
 </div>
 
 ---
@@ -94,7 +92,7 @@
 
 ## 🤝 Open to Opportunities
 
-- Internships  
+- Open for work  
 - Open-source collaboration  
 - Tech community involvement  
 
