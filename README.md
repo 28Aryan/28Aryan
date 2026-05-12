@@ -72,11 +72,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=28aryan&show_icons=true&count_private=true&bg_color=0D1117&title_color=20B2AA&text_color=C9D1D9&icon_color=8A2BE2&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=28aryan&layout=compact&langs_count=8&bg_color=0D1117&title_color=20B2AA&text_color=C9D1D9&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=28aryan&background=0D1117&ring=20B2AA&fire=8A2BE2&currStreakLabel=20B2AA&currStreakNum=20B2AA&sideLabels=8A2BE2&dates=C9D1D9&sideNums=C9D1D9&hide_border=true&stroke=20B2AA&border_radius=8" />
 </div>
 
